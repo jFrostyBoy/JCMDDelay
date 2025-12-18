@@ -1,7 +1,5 @@
 ## JCMDDelay
 
-Простой и надёжный плагин для отложенного выполнения любых консольных команд.
-
 **Ядро:** Paper/Spigot  
 **Версия:** 1.16.5 — 1.21.1  
 **Java:** 16+  
@@ -92,3 +90,4 @@ time-units:
 ```
 
 <img width="1024" height="596" alt="Screenshot_9" src="https://github.com/user-attachments/assets/1fd63681-ed19-423d-8fdc-7a27e33a99a8" />
+
