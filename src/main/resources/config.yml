@@ -1,0 +1,34 @@
+# Использование команды
+usage:
+  - ""
+  - "&a/cmddelay <команда> <время>"
+  - "&7Примеры:"
+  - "&f/cmddelay op Steve 10s"
+  - "&f/cmddelay broadcast Всем привет! 1m"
+  - "&f/cmddelay lp user Notch parent set admin 5m"
+  - ""
+  - "&a/jcmddreload &7- перезагрузка конфига"
+
+# Сообщения плагина
+messages:
+  no-permission: "&cУ вас нет прав на использование этой команды."
+  invalid-time: "&cНеверный формат времени! Используйте: 10s, 5m, 2h или просто число (в секундах)."
+  empty-command: "&cКоманда не может быть пустой!"
+  scheduled: "&aКоманда '&f%command%&a' запланирована на выполнение через &f%time%&a."
+  executed: "&aОтложенная команда '&f%command%&a' выполнена."
+  reload-success: "&aКонфигурация JCMDDelay успешно перезагружена!"
+
+# Единицы времени
+time-units:
+  hours:
+    one: "час"
+    few: "часа"
+    many: "часов"
+  minutes:
+    one: "минута"
+    few: "минуты"
+    many: "минут"
+  seconds:
+    one: "секунда"
+    few: "секунды"
+    many: "секунд"
