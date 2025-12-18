@@ -90,3 +90,5 @@ time-units:
     few: "секунды"
     many: "секунд"
 ```
+
+<img width="1024" height="596" alt="Screenshot_9" src="https://github.com/user-attachments/assets/1fd63681-ed19-423d-8fdc-7a27e33a99a8" />
